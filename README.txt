@@ -1,2 +1,2 @@
 # Bulk-Archive-Extractor
-This is used for exctractin large amounts of zip, rar, and 7z archives. 
+This is used for extracting large amounts of ZIP, RAR, and 7Z archives. Please enjoy!
