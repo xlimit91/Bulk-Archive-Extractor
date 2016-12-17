@@ -17,3 +17,11 @@ C:\git\Bulk-Zip-Extractor\bulk zip extractor\bulk zip extractor\obj\Debug\bulk z
 C:\git\Bulk-Zip-Extractor\bulk zip extractor\bulk zip extractor\obj\Debug\bulk zip extractor.exe
 C:\git\Bulk-Zip-Extractor\bulk zip extractor\bulk zip extractor\obj\Debug\bulk zip extractor.xml
 C:\git\Bulk-Zip-Extractor\bulk zip extractor\bulk zip extractor\obj\Debug\bulk zip extractor.pdb
+C:\git\Bulk-Zip-Extractor\bulk zip extractor\bulk zip extractor\bin\Debug\bulk zip extractor.exe
+C:\git\Bulk-Zip-Extractor\bulk zip extractor\bulk zip extractor\bin\Debug\bulk zip extractor.pdb
+C:\git\Bulk-Zip-Extractor\bulk zip extractor\bulk zip extractor\bin\Debug\bulk zip extractor.xml
+C:\git\Bulk-Zip-Extractor\bulk zip extractor\bulk zip extractor\bin\Debug\SharpCompress.dll
+C:\git\Bulk-Zip-Extractor\bulk zip extractor\bulk zip extractor\obj\Debug\bulk zip extractor.vbprojResolveAssemblyReference.cache
+C:\git\Bulk-Zip-Extractor\bulk zip extractor\bulk zip extractor\obj\Debug\bulk_zip_extractor.Form1.resources
+C:\git\Bulk-Zip-Extractor\bulk zip extractor\bulk zip extractor\obj\Debug\bulk_zip_extractor.Resources.resources
+C:\git\Bulk-Zip-Extractor\bulk zip extractor\bulk zip extractor\obj\Debug\bulk zip extractor.vbproj.GenerateResource.Cache
