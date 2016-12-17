@@ -1,0 +1,19 @@
+c:\users\alex\documents\visual studio 2015\Projects\bulk zip extractor\bulk zip extractor\bin\Debug\bulk zip extractor.exe.config
+c:\users\alex\documents\visual studio 2015\Projects\bulk zip extractor\bulk zip extractor\bin\Debug\bulk zip extractor.exe
+c:\users\alex\documents\visual studio 2015\Projects\bulk zip extractor\bulk zip extractor\bin\Debug\bulk zip extractor.pdb
+c:\users\alex\documents\visual studio 2015\Projects\bulk zip extractor\bulk zip extractor\bin\Debug\bulk zip extractor.xml
+c:\users\alex\documents\visual studio 2015\Projects\bulk zip extractor\bulk zip extractor\obj\Debug\bulk zip extractor.vbprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2015\Projects\bulk zip extractor\bulk zip extractor\obj\Debug\bulk_zip_extractor.Form1.resources
+c:\users\alex\documents\visual studio 2015\Projects\bulk zip extractor\bulk zip extractor\obj\Debug\bulk_zip_extractor.Resources.resources
+c:\users\alex\documents\visual studio 2015\Projects\bulk zip extractor\bulk zip extractor\obj\Debug\bulk zip extractor.vbproj.GenerateResource.Cache
+c:\users\alex\documents\visual studio 2015\Projects\bulk zip extractor\bulk zip extractor\obj\Debug\bulk zip extractor.exe
+c:\users\alex\documents\visual studio 2015\Projects\bulk zip extractor\bulk zip extractor\obj\Debug\bulk zip extractor.xml
+c:\users\alex\documents\visual studio 2015\Projects\bulk zip extractor\bulk zip extractor\obj\Debug\bulk zip extractor.pdb
+c:\users\alex\documents\visual studio 2015\Projects\bulk zip extractor\bulk zip extractor\obj\Debug\Interop.Shell32.dll
+c:\users\alex\documents\visual studio 2015\Projects\bulk zip extractor\bulk zip extractor\obj\Debug\bulk zip extractor.vbproj.ResolveComReference.cache
+C:\git\Bulk-Zip-Extractor\bulk zip extractor\bulk zip extractor\bin\Debug\bulk zip extractor.exe.config
+C:\git\Bulk-Zip-Extractor\bulk zip extractor\bulk zip extractor\obj\Debug\Interop.Shell32.dll
+C:\git\Bulk-Zip-Extractor\bulk zip extractor\bulk zip extractor\obj\Debug\bulk zip extractor.vbproj.ResolveComReference.cache
+C:\git\Bulk-Zip-Extractor\bulk zip extractor\bulk zip extractor\obj\Debug\bulk zip extractor.exe
+C:\git\Bulk-Zip-Extractor\bulk zip extractor\bulk zip extractor\obj\Debug\bulk zip extractor.xml
+C:\git\Bulk-Zip-Extractor\bulk zip extractor\bulk zip extractor\obj\Debug\bulk zip extractor.pdb
